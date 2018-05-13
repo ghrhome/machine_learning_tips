@@ -45,8 +45,6 @@ def load_data():
     return (training_data, validation_data, test_data)
 ```
 
-
-
 SVM算法进行训练和预测的代码如下：
 
 ```
@@ -132,21 +130,5 @@ SVM算法也没有想象的那么高不可攀嘛，呵呵！
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](/assets/xbprocess.jpg)
 
